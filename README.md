@@ -17,7 +17,7 @@ was tough.
 
 There are a few books which I would recommend for interested students.
 
-I will be giving an order in which a newbie can read and understand the material without breaking the learning curve.
+I will be giving an order to read and understand the material without breaking the learning curve.
 Additional changes will be made from time to time. 
 
 
