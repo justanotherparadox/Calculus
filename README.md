@@ -18,7 +18,7 @@ was tough.
 There are a few books which I would recommend for interested students.
 
 I will be giving an order in which a newbie can read and understand the material without breaking the learning curve.
-Additional materials and changes will be made from time to time.
+Additional changes will be made from time to time. 
 
 
 
