@@ -1,7 +1,4 @@
-# Calculus
-Single Variable as well as Multivariable
-
-
+# Single Variable Calculus
 
 My attempt to find a closed form for a derivative of a product of 'n' functions that are all differentiable.
 
