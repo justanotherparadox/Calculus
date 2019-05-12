@@ -31,7 +31,7 @@ Links to references:
 
 6. [Introduction to Differential Geometry](https://www.amazon.in/dp/0195611101/?coliid=I2KFHPYTC4SWKP&colid=22Q8X0SEDYMS3&psc=0&ref_=lv_ov_lig_dp_it) by Willmore T.J. -------> Next, follow this one.
 
-Extras:
+##### Extras:
 
 (In case something is useful in these)
 
@@ -43,7 +43,7 @@ Extras:
 
 4. [Solutions of Exercises of Principles of Tensor Calculus](https://www.amazon.in/dp/1728857260/?coliid=I3C6116BSX161T&colid=22Q8X0SEDYMS3&psc=0&ref_=lv_ov_lig_dp_it)
 
-#####If you are interested in learning Relativity:
+##### If you are interested in learning Relativity:
 
 1. [The Mechanics of Lorentz Transformations](https://www.amazon.in/dp/1727118480/?coliid=I2SL705EFNNSA7&colid=22Q8X0SEDYMS3&psc=0&ref_=lv_ov_lig_dp_it) by Taha Sochi
 
